@@ -1,1 +1,0 @@
-![[problem.png]]![[result.png]]

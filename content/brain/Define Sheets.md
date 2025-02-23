@@ -1,1 +1,0 @@
-![[blockleft.png]]![[blockright.png]]
