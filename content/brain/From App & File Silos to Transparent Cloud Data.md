@@ -1,0 +1,3 @@
+![[螢幕擷取畫面 2023-09-05 125841.png]]
+
+https://www.autodesk.com/autodesk-university/class/Bridging-Revit-Inventor-using-Autodesk-Data-Exchange-make-configurator-2022?urlParamToken=eyJhbGciOiJIUzI1NiJ9.eyJldmVudFBsYW5uZXJJZCI6OTc5LCJsaXN0VHlwZVByb2ZpbGVWYWx1ZUlkcyI6IiIsInRleHRUeXBlUHJvZmlsZVZhbHVlcyI6IjExMzE0ODomIzM5OzUzMTk1NjQwMDEmIzM5OyAsMTEzMTQ5OiYjMzk7c29jaWFsJiMzOTssIDExMzE1MDomIzM5O2ZhY2Vib29rJiMzOTsiLCJyZWdDb2RlVmFsdWVzIjoiIn0.EjE8SfmLA0OqKs8Y9kJAdP6ZH3DuInib5aQ8C3dyEO4&mktvar002=5319564001%7CORG%7C#presentation

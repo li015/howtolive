@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "HOW TO LIVE",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "li015.github.io/howto_live/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     generateSocialImages: false,
@@ -30,26 +30,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fcfbf9",           // 更柔和的米白色背景
+          lightgray: "#eae7e4",       // 溫暖的淺灰
+          gray: "#a8a4a1",           // 沉穩的中灰
+          darkgray: "#565352",       // 深沉的暖灰
+          dark: "#2d2b2a",           // 近黑色
+          secondary: "#435d6f",      // 沉穩的藍灰色
+          tertiary: "#739389",       // 柔和的灰綠色
+          highlight: "rgba(143, 159, 169, 0.12)",  // 較淡的強調色
+          textHighlight: "#e6c87788", // 溫暖的黃色高亮
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+            light: "#18191c",          // 更柔和的深色背景
+            lightgray: "#2f3033",      // 帶有藍調的深灰
+            gray: "#686b72",          // 中性灰色
+            darkgray: "#dcdfe6",      // 帶有藍調的淺灰
+            dark: "#eff1f5",          // 冷調白
+            secondary: "#8ba3b4",     // 柔和的藍灰色
+            tertiary: "#92b0a7",      // 淡雅的灰綠色
+            highlight: "rgba(143, 159, 169, 0.12)", // 統一的強調色透明度
+            textHighlight: "#c4b84288", // 柔和的金色高亮
         },
       },
     },
