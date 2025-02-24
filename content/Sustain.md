@@ -10,6 +10,7 @@
 # 系統
 1. 洗腦流程
 2. [[框架]]
+3. [[Latest architecture tools]]
 
 # 願景
 1. 安全
