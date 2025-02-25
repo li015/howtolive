@@ -1,0 +1,1 @@
+https://levelup.gitconnected.com/introduction-to-analyzing-text-with-azure-ai-language-service-and-c-8ce670a9a940
